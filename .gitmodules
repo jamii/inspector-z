@@ -1,0 +1,3 @@
+[submodule "ZT"]
+	path = ZT
+	url = git@github.com:jamii/ZT.git
